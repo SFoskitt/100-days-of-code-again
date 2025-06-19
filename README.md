@@ -1,5 +1,8 @@
 # I've joined the #100DaysOfCode Challenge - Again
 
+NOTE from Stephanie -- my comments are in [Log](./log.md)
+
+
 ## Contents
 
 - [Rules](rules.md)
