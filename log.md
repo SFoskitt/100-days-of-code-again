@@ -1,30 +1,32 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Day 2: June 19, 2025
+**Today's Progress**: 
+Three problems on HackerRank.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**:
+[I blogged about it](https://stephanietech.net/blog/2025/06/19/Day-2-100-days-of-code)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work**: 
+[Today](https://github.com/SFoskitt/coding-problems/commit/7523ea14d9094baf293d9072f3befb13229b629c)
 
 
-### Day 1: June 27, Monday
+## Day 1: June 18, 2025
+**Today's Progress**: 
+Tragic attempt at a real Amazon assessment for a real job opportunity.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**:
+[I blogged about it](https://stephanietech.net/blog/2025/06/18/Day-1-100-days-of-code)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work**: 
+Nope.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+## Day 0: June 17, 2025
+**Today's Progress**: 
+
+**Thoughts**:
+[I blogged about it](https://stephanietech.net/blog/2025/06/17/Day-0-100-days-of-code)
+
+**Link to work**: 
+
