@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 5: June 22, 2025
+**Today's Progress**:
+Two and a half problems on HackerRank.
+
+**Thoughts**:
+[I blogged about it](https://stephanietech.net/blog/2025/06/22/Day-5-100-days-of-code)
+
+**Link to work**:
+[Today's commit](https://github.com/SFoskitt/coding-problems/commit/cda051adc01607951673cf58a132fa3f97359534)
+
+
 ## Day 4: June 21, 2025
 **Today's Progress**:
 Two and a half problems on HackerRank.
