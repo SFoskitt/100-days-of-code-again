@@ -1,5 +1,60 @@
 # 100 Days Of Code - Log
 
+## Day 10: June 27, 2025
+**Today's Progress**:
+HackerRank [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem?isFullScreen=true)
+
+**Thoughts**:
+[I blogged about it](https://stephanietech.net/blog/2025/06/27/Day-10-100-days-of-code)
+
+**Link to work**:
+[Today's Commit](https://github.com/SFoskitt/coding-problems/commit/0816551fce950a9189a8c93a3b40de35fdacefc9)
+
+
+## Day 9: June 26, 2025
+**Today's Progress**:
+HackerRank [Java Generics](https://www.hackerrank.com/challenges/java-generics/problem?isFullScreen=true)
+
+**Thoughts**:
+[I blogged about it](https://stephanietech.net/blog/2025/06/26/Day-9-100-days-of-code)
+
+**Link to work**:
+[Today's commit](https://github.com/SFoskitt/coding-problems/commit/ae7aea3c5fbe81ac564073e00add790b46bf0e4b)
+
+
+## Day 8: June 25, 2025
+**Today's Progress**:
+HackerRank [String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem?isFullScreen=true)
+
+**Thoughts**:
+[I blogged about it](https://stephanietech.net/blog/2025/06/25/Day-8-100-days-of-code)
+
+**Link to work**:
+[Today's Commit](https://github.com/SFoskitt/coding-problems/commit/604cffbdd7bfbc398f239b40e1637db763f10e0e)
+
+
+## Day 7: June 24, 2025
+**Today's Progress**:
+HackerRank [Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem?isFullScreen=true)
+
+**Thoughts**:
+[I blogged about it](https://stephanietech.net/blog/2025/06/24/Day-7-100-days-of-code)
+
+**Link to work**:
+[Today's Commit](https://github.com/SFoskitt/coding-problems/commit/bd199a9a2a90d3cbeb98b4fa306de7b6c14dcfaa)
+
+
+## Day 6: June 23, 2025
+**Today's Progress**:
+HackerRank [String Compare](https://www.hackerrank.com/challenges/java-string-compare/problem?isFullScreen=true)
+
+**Thoughts**:
+[I blogged about it](https://stephanietech.net/blog/2025/06/23/Day-6-100-days-of-code)
+
+**Link to work**:
+[Today's Commit](https://github.com/SFoskitt/coding-problems/commit/5c923e56e634a08768798e03ec006002e01a4eb6)
+
+
 ## Day 5: June 22, 2025
 **Today's Progress**:
 Two and a half problems on HackerRank.
