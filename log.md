@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+## Day 11: June 28, 2025
+**Today's Progress**:
+QGSS2025 Prep - [Hello, World](https://www.youtube.com/watch?v=93-zLTppFZw)
+Read today's blog post, link below, for notes on this video. It was filmed before IBM updated/upgraded both their platform and their SDK so some things here are broken.
+
+**Thoughts**:
+I had a lot to say about it [here](https://stephanietech.net/blog/2025/06/28/Day-11-100-days-of-code)
+
+**Link to work**:
+[Today's commit](efc870b4e2d36ce5c192ec7154c2c1d18f7836e1)
+I've never committed a *.ipynb notebook before and did not know there would be so much cruft. It looks like the vast majority of the commit is the output. Next time I will be sure to clear the output before making the commit. Today, just too tired.
+
+
 ## Day 10: June 27, 2025
 **Today's Progress**:
 HackerRank [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem?isFullScreen=true)
